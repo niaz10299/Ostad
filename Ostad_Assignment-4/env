@@ -1,0 +1,2 @@
+MONGO_URI = mongodb://localhost:27017/student-registration
+JWT_SECRET = my_secret_key
